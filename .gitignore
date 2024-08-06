@@ -1,6 +1,6 @@
 .vscode/
 .venv
-.dataset/
-.models/
+dataset/
+
 
 .env
