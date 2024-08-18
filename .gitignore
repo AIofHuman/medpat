@@ -2,5 +2,7 @@
 .venv
 dataset/
 
+# models file too big
+*.pt
 
 .env
